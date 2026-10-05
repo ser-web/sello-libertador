@@ -1,7 +1,7 @@
 # Sello Libertador — Paquete de arranque
 
 Proyecto conjunto de los BLOQUES. Todo se trabaja en **Remix IDE**
-(https://remix.ethereum.org) con el entorno **Remix VM**.
+https://app.remix.live  con el entorno **Remix VM**.
 
 ## 1. Idea en una línea
 
