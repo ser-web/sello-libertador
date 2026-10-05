@@ -60,9 +60,10 @@ Cada archivo de pruebas trae **dos pruebas resueltas** de ejemplo.
 
 ## 3. Cargar el proyecto en Remix
 
-1. Abrir https://remix.ethereum.org y crear un espacio de trabajo vacío (*Blank*).
-2. Subir las carpetas `contracts`, `tests` y `scripts` con *Upload folder*
-   (o *Clone* si el docente publica el repositorio en GitHub).
+1. Abrir https://app.remix.live
+2. En el desplegable del espacio de trabajo, elegir *Clone* y pegar:
+   https://github.com/ser-web/sello-libertador
+3. No subir carpetas a mano: la estructura se desordena.
 
 ## 4. Ajustes OBLIGATORIOS de Remix
 
