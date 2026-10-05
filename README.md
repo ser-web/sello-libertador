@@ -1,7 +1,6 @@
 # Sello Libertador — Paquete de arranque
 
-Títulos verificables de la Universidad Bernardo O'Higgins en blockchain.
-Proyecto conjunto de los tres cursos. Todo se trabaja en **Remix IDE**
+Proyecto conjunto de los BLOQUES. Todo se trabaja en **Remix IDE**
 (https://remix.ethereum.org) con el entorno **Remix VM**.
 
 ## 1. Idea en una línea
